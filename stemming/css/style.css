@@ -1,0 +1,38 @@
+body{
+	width: 50%;
+	margin-left:25%;
+	margin-top: 5%;	
+}
+h3{
+	text-align: center;
+}
+.form-control{
+	margin-bottom: 20px;
+}
+#tombol-proses{
+	text-align: center;
+}
+h2{
+	margin-top: 20%;
+	text-align: center;
+}
+#tabel-hasil{
+	width: 100%;
+	margin-left:28%;
+	margin-top: 5%;
+	text-align: center;		
+}
+.kata-awalan{
+	font-size: 18px;
+	margin-right: 50px;
+}
+.kata-hasil{
+	font-size: 20px;
+	margin-left: 10px;
+}
+#footer{
+	width: auto;
+	height: 5px;
+	text-align: center;
+	margin-top: 30%;
+}
